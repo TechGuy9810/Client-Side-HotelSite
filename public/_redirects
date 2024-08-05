@@ -1,2 +1,2 @@
-/api/* https://hotel-site-production.up.railway.app/express/:splat 200
+/api/* https://hotel-site-production.up.railway.app/:splat 200
 /* /index.html 200
