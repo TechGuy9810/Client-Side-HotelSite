@@ -52,6 +52,5 @@
   "devDependencies": {
     "@types/bootstrap": "^5.2.6",
     "gh-pages": "^6.1.1"
-  },
-  "proxy": "https://hotel-site-production.up.railway.app/express/"
+  }
 }
